@@ -15,6 +15,9 @@ namespace gitExercise1
 
             Console.WriteLine("Minimal");
             Console.WriteLine("        requirements!");
+
+            Console.WriteLine("5.	Add a few more WriteLines to Main ");
+            Console.WriteLine("and commit on the master branch again");
         }
     }
 }
