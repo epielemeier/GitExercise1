@@ -18,6 +18,8 @@ namespace gitExercise1
 
             Console.WriteLine("5.	Add a few more WriteLines to Main ");
             Console.WriteLine("and commit on the master branch again");
+
+            Console.WriteLine("Last one");
         }
     }
 }
